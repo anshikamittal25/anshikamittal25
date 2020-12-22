@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey there 👋, I am Anshika !!!
+
+I am a CSE sophomore studying in IIT Roorkee
+
+- 🔭 I’m currently working on few projects.
+- 📫 How to reach me: 
+<a href="https://www.facebook.com/anshika25mittal/"><img src="https://i.pinimg.com/originals/b7/63/69/b763699fd1fa3bfb374442593ae642e1.png"></i></a>
+<a href="mailto:anshika_m@cs.iitr.ac.in">Mail</a>
+
 
 <!--
 **anshikamittal25/anshikamittal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
