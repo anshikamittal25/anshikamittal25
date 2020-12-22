@@ -1,12 +1,14 @@
 ### Hey there 👋, I am Anshika !!!
 
 
+
 - 👩‍🎓 I am a CSE sophomore studying in IIT Roorkee.
 - 🌟 I am a Flutter developer passionate about developing apps.
 - 🔭 Currently working on few projects.
 
 
 ## 📫 How to reach me:
+
 
 <p>
 <a href="https://www.facebook.com/anshika25mittal/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -16,7 +18,7 @@
 
 
 ![Anshika's Github stats](https://github-readme-stats.vercel.app/api?username=anshikamittal25&show_icons=true&theme=onedark)
-![Anshika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&langs_count=8)
+![Anshika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&hide=javascript,html,css)
 
 <!--
 **anshikamittal25/anshikamittal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
