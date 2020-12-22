@@ -17,8 +17,8 @@
 </p>
 
 
-![Anshika's Github stats](https://github-readme-stats.vercel.app/api?username=anshikamittal25&show_icons=true&theme=onedark)
-![Anshika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&langs_count=10&hide=javascript,html,css&)
+![Anshika's Github stats](https://github-readme-stats.vercel.app/api?username=anshikamittal25&show_icons=true&theme=onedark&line_height=30)
+![Anshika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&langs_count=10&hide=html,css&line_height=30)
 
 <!--
 **anshikamittal25/anshikamittal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
