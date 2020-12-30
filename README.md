@@ -1,4 +1,4 @@
-# Hey there 👋, I am Anshika !!!
+### Hey there 👋, I am Anshika !!!
 
 
 
@@ -28,6 +28,8 @@
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&langs_count=6&hide=html,css&line_height=30">
   <p>
 </details>
+
+---
 
 ## ⚡ Languages
 
