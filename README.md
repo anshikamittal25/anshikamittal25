@@ -16,6 +16,7 @@
 <a href="mailto:anshika_m@cs.iitr.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+---
 <details open>
   <summary>My Github Stats</summary>
   <br>
