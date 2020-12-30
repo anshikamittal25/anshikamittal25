@@ -6,6 +6,7 @@
 - 🌟 I am a Flutter developer passionate about developing apps.
 - 🔭 Currently working on few projects.
 
+
 ---
 
 ## 📫 How to reach me:
@@ -18,6 +19,7 @@
 </p>
 
 ---
+
 <details open>
   <summary><b>My Github Stats</b></summary>
   <br>
@@ -27,7 +29,7 @@
   <p>
 </details>
 
-## Languages
+## ⚡ Languages
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-2bb7f6?style=flat-square&logo=Dart&logoColor=white)
