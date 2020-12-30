@@ -16,9 +16,16 @@
 <a href="mailto:anshika_m@cs.iitr.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
+<details open>
+  <summary>My Github Stats</summary>
+  <br>
+  <p align="center">
+    ![Anshika's Github stats](https://github-readme-stats.vercel.app/api?username=anshikamittal25&show_icons=true&theme=onedark&line_height=30)
+    ![Anshika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&langs_count=6&hide=html,css&line_height=30)
+  <p>
+</details>
 
-![Anshika's Github stats](https://github-readme-stats.vercel.app/api?username=anshikamittal25&show_icons=true&theme=onedark&line_height=30)
-![Anshika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&langs_count=6&hide=html,css&line_height=30)
+
 
 <!--
 **anshikamittal25/anshikamittal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
