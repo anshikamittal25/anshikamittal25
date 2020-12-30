@@ -20,8 +20,8 @@
   <summary>My Github Stats</summary>
   <br>
   <p align="center">
-    ![Anshika's Github stats](https://github-readme-stats.vercel.app/api?username=anshikamittal25&show_icons=true&theme=onedark&line_height=30)
-    ![Anshika's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&langs_count=6&hide=html,css&line_height=30)
+    <img src = "https://github-readme-stats.vercel.app/api?username=anshikamittal25&show_icons=true&theme=onedark&line_height=30">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=anshikamittal25&show_icons=true&theme=onedark&langs_count=6&hide=html,css&line_height=30">
   <p>
 </details>
 
