@@ -3,7 +3,7 @@
 
 
 - 👩‍🎓 I am a CSE sophomore studying in IIT Roorkee.
-- 🌟 I am a Flutter developer passionate about developing apps.
+- 🌟 I am a Full Stack developer passionate about developing apps and websites.
 - 🔭 Currently working on few projects.
 
 
